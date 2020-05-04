@@ -1,4 +1,4 @@
-package com.example.top10downloader
+package com.example.topdownloader
 
 import org.junit.Test
 
